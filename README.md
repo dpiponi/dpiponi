@@ -9,7 +9,7 @@
 * I wrote one of those [Haskell monad tutorials](https://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
 * I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies. This is one of my favourite uses - driving spray pouring off the [Enterprise](https://youtu.be/diLKuQ8WfVw?si=qPgtxnPAZABg4XHK&t=14).
 * I came up with [loeb](https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
-* I tried to demistify [differential forms](https://github.com/dpiponi/forms/blob/master/forms.pdf).
+* I tried to demystify [differential forms](https://github.com/dpiponi/forms/blob/master/forms.pdf).
 * I worked on Tensorflow Probability. [Here](https://github.com/tensorflow/probability/blob/v0.23.0/tensorflow_probability/python/math/scan_associative.py#L125-L351) is something I cowrote with a colleague, and [here](https://arxiv.org/abs/2001.11819) is a paper I coauthored.
 * My claim to fame - I got [cited](https://www.researchgate.net/publication/272195705_Gravitational_Lensing_by_Spinning_Black_Holes_in_Astrophysics_and_in_the_Movie_Interstellar/link/6228b64f9f7b3246341bf30b/download) by a Nobel prize winner.
 * You've seen Event Horizon, right? I helped out in the design of the singularity drive. <img width="426" height="283" alt="A741CB4E-1D18-4FA0-B06E-987C9C126E81_4_5005_c" src="https://github.com/user-attachments/assets/a1bbedac-33ca-4e6a-9f7f-b8ea83e533be" />

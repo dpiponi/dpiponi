@@ -1,5 +1,9 @@
 ## Dan Piponi
 
+# Stuff I've done over the years
+
+* [Figured out how to compute Laplacians (sparsely and) efficiently with AD](http://blog.sigfpe.com/2011/08/computing-errors-with-square-roots-of.html) It was eventually rediscovered by [folx](https://github.com/microsoft/folx).
+
 <!--
 **dpiponi/dpiponi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

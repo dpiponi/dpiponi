@@ -1,12 +1,13 @@
 ## Dan Piponi
 
-# Stuff I've done over the years
+# Stuff software related I've done over the years
 
 * One of the pioneering users of AD in graphics. This is the [paper](https://www.researchgate.net/publication/241730000_Automatic_Differentiation_C_Templates_and_Photogrammetry) where I introduce the use of AD for inverse rendering.
 * I figured out how to factor reverse mode AD as a product of [two program transformations](https://www.tandfonline.com/doi/abs/10.1080/2151237X.2009.10129275) - forward AD followed by the code adjoint. It's the method [Jax now uses](https://arxiv.org/abs/2204.10923).
-* [Figured out how to compute Laplacians (sparsely and) efficiently with AD](http://blog.sigfpe.com/2011/08/computing-errors-with-square-roots-of.html) It was eventually rediscovered by [folx](https://github.com/microsoft/folx).
+* [Figured out how to compute Laplacians (sparsely and) efficiently with AD](http://blog.sigfpe.com/2011/08/computing-errors-with-square-roots-of.html). It was eventually rediscovered by [folx](https://github.com/microsoft/folx).
 * I introduced [profunctors](https://blog.sigfpe.com/2011/07/profunctors-in-haskell.html) to the Haskell world. Sorry.
 * I wrote one of those [Haskell monad tutorials](https://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
+* I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies.
 
 <!--
 **dpiponi/dpiponi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

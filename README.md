@@ -7,7 +7,7 @@
 * I also [figured out how to compute Laplacians (sparsely and) efficiently with AD](http://blog.sigfpe.com/2011/08/computing-errors-with-square-roots-of.html). It was eventually rediscovered by [folx](https://github.com/microsoft/folx).
 * I introduced [profunctors](https://blog.sigfpe.com/2011/07/profunctors-in-haskell.html) to the Haskell world. Sorry.
 * I wrote one of those [Haskell monad tutorials](https://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
-* I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies.
+* I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies. This is one of my favourite uses - driving spray pouring off the [Enterprise](https://youtu.be/diLKuQ8WfVw?si=qPgtxnPAZABg4XHK&t=14).
 * I came up with `[loeb]`(https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
 * I tried to demistify [differential forms](https://github.com/dpiponi/forms/blob/master/forms.pdf).
 

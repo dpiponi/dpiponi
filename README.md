@@ -1,6 +1,6 @@
 ## Dan Piponi
 
-# Stuff software related I've done over the years
+# Software and math stuff I've done over the years
 
 * I was one of the pioneering users of AD in graphics. This is the [paper](https://www.researchgate.net/publication/241730000_Automatic_Differentiation_C_Templates_and_Photogrammetry) where I introduce the use of AD for inverse rendering.
 * I figured out how to factor reverse mode AD as a product of [two program transformations](https://www.tandfonline.com/doi/abs/10.1080/2151237X.2009.10129275) - forward AD followed by the code adjoint. It's the method [Jax now uses](https://arxiv.org/abs/2204.10923).

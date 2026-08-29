@@ -8,7 +8,7 @@
 * I introduced [profunctors](https://blog.sigfpe.com/2011/07/profunctors-in-haskell.html) to the Haskell world. Sorry.
 * I wrote one of those [Haskell monad tutorials](https://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
 * I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies. This is one of my favourite uses - driving spray pouring off the [Enterprise](https://youtu.be/diLKuQ8WfVw?si=qPgtxnPAZABg4XHK&t=14).
-* I came up with `[loeb]`(https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
+* I came up with [loeb](https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
 * I tried to demistify [differential forms](https://github.com/dpiponi/forms/blob/master/forms.pdf).
 * I worked on Tensorflow Probability. [Here](https://github.com/tensorflow/probability/blob/v0.23.0/tensorflow_probability/python/math/scan_associative.py#L125-L351) is something I cowrote with a colleague, and [here](https://arxiv.org/abs/2001.11819) is a paper I coauthored.
 * My claim to fame - I got [cited](https://www.researchgate.net/publication/272195705_Gravitational_Lensing_by_Spinning_Black_Holes_in_Astrophysics_and_in_the_Movie_Interstellar/link/6228b64f9f7b3246341bf30b/download) by a Nobel prize winner.

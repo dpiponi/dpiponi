@@ -8,6 +8,7 @@
 * I introduced [profunctors](https://blog.sigfpe.com/2011/07/profunctors-in-haskell.html) to the Haskell world. Sorry.
 * I wrote one of those [Haskell monad tutorials](https://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
 * I worked on some movies including the original Matrix trilogy and the first Star Trek reboot. My fluid dynamics code was used on hundreds of movies.
+* I came up with `[loeb]`(https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
 
 <!--
 **dpiponi/dpiponi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

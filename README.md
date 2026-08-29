@@ -11,6 +11,8 @@
 * I came up with `[loeb]`(https://blog.sigfpe.com/2006/11/from-l-theorem-to-spreadsheet.html).
 * I tried to demistify [differential forms](https://github.com/dpiponi/forms/blob/master/forms.pdf).
 * I worked on Tensorflow Probability. [Here](https://github.com/tensorflow/probability/blob/v0.23.0/tensorflow_probability/python/math/scan_associative.py#L125-L351) is something I cowrote with a colleague, and [here](https://arxiv.org/abs/2001.11819) is a paper I coauthored.
+* You've seen Event Horizon, right? I helped out in the design of the singularity drive. <img width="426" height="283" alt="A741CB4E-1D18-4FA0-B06E-987C9C126E81_4_5005_c" src="https://github.com/user-attachments/assets/a1bbedac-33ca-4e6a-9f7f-b8ea83e533be" />
+
 
 <!--
 **dpiponi/dpiponi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

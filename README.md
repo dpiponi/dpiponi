@@ -14,6 +14,7 @@
 * My claim to fame - I got [cited](https://www.researchgate.net/publication/272195705_Gravitational_Lensing_by_Spinning_Black_Holes_in_Astrophysics_and_in_the_Movie_Interstellar/link/6228b64f9f7b3246341bf30b/download) by a Nobel prize winner.
 * The first algorithm I shared [online](https://graphics.stanford.edu/pub/Graphics/RTNews/html/rtnv8n2.html) was constant-z texture mapping. Many others discovered it too.
 * The first algorithm I published was in 1981 in [Practical Computing](https://datassette.s3.us-west-004.backblazeb2.com/revistas/practical_computing_v04_10.pdf) magazine.
+* I've submitted one [OEIS entry](https://oeis.org/A387361).
 * You've seen Event Horizon, right? I helped out in the design of the singularity drive. <img width="426" height="283" alt="A741CB4E-1D18-4FA0-B06E-987C9C126E81_4_5005_c" src="https://github.com/user-attachments/assets/a1bbedac-33ca-4e6a-9f7f-b8ea83e533be" />
 
 
